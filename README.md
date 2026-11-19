@@ -6,11 +6,10 @@ research on Parallel Decoding Distillation usability in protein domain
 
 ## Motivation
 
-Lately there was a paper **(Parallel Decoding Distillation for Fast Image and Video Generation Neta Shaul2
-, Chao Liu1
-, Arash Vahdat1,
-, Julius Berner1,
-1NVIDIA, 2Weizmann Institute of Science, †equal advising)**
+Lately there was a paper **Parallel Decoding Distillation for Fast Image and Video Generation (Neta Shaul
+, Chao Liu
+, Arash Vahdat,
+, Julius Berner)**
 
 Idea was to adapt **PDD** for biomolecular diffusion models distillation approaches
 
