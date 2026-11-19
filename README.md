@@ -1,6 +1,7 @@
 # pdd_in_bio
 
 research on Parallel Decoding Distillation usability in protein domain
+
 <img src="image.png" alt="Описание картинки" width="60%">
 
 ## Motivation
