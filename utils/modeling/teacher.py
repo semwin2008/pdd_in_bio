@@ -6,6 +6,15 @@ teacher models:
 - boltz
 - FrameFlow
 """
+
+
+
+
 class Teacher(nn.Module):
     pass
+
+
+class Proteina():
+    pass
+
 

@@ -13,9 +13,10 @@
 
 ## Experiments configs
 
+- teacher model
 - NFE / N
 - Real data / synth only
--
+- Fused transform variations (parameter-linear functions) for student heads
 
 ## Diffusing vector fields
 
