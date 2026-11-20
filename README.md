@@ -1,4 +1,4 @@
-# pdd_in_bio
+# PDD in Proteins
 
 research on Parallel Decoding Distillation usability in protein domain
 
@@ -8,7 +8,7 @@ research on Parallel Decoding Distillation usability in protein domain
 
 Lately there was a paper **Parallel Decoding Distillation for Fast Image and Video Generation (Neta Shaul
 , Chao Liu
-, Arash Vahdat,
+, Arash Vahdat
 , Julius Berner)**
 
 Idea was to adapt **PDD** for biomolecular diffusion models distillation approaches
