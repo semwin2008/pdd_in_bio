@@ -11,10 +11,15 @@ teacher models:
 
 
 class Teacher(nn.Module):
-    pass
+    def __init__(self,):
+        self.backbone: torch.nn.Module
+        self.head: torch.nn.Module
+
+    def forward(self,):
+        pass
 
 
-class Proteina():
+class ProteinaTeacher(Teacher):
     pass
 
 

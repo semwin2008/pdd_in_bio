@@ -1,4 +1,13 @@
 version: 1
+experiment_name: "base"
 
 data:
   real: False
+
+distil:
+  NFE: 32
+  L: 4
+  model_save_path: "/models/"
+  logger_path: "/experiments/"
+
+evaluation:
