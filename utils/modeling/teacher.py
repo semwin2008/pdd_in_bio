@@ -16,10 +16,17 @@ class Teacher(nn.Module):
         self.head: torch.nn.Module
 
     def forward(self,):
-        pass
+        return self.head(self.backbone)
 
 
 class ProteinaTeacher(Teacher):
     pass
+
+class BoltzTeacher(Teacher):
+    pass
+
+class FrameFlowTeacher(Teacher):
+    pass
+
 
 
